@@ -1,16 +1,21 @@
-### Hi there 👋
+### Déveveloppeur Freelance | Laravel / Symfony
 
-<!--
-**JacobDelcroix/JacobDelcroix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fan de développement depuis mon plus jeune âge, le code est à la fois ma passion et mon métier. Suite à quelques expériences en CDI, je me suis lancé en tant que Freelance temps plein en Juillet 2019. 
 
-Here are some ideas to get you started:
+#### ⚡ Compétences
+- PHP
+- Symfony / Laravel
+- API Platform
+- SQL (MySQL / PostgreSQL / MariaDB)
+- Elasticsearch / Algolia / MongoDB
+- Redis
+- Javascript (jQuery / VueJS / Alpine)
+- HTML / CSS (SaSS) - Bootstrap - TailwindCSS - Responsive Design
+- Gestion serveurs dédiés (Ubuntu / Debian)
+- Intégration Stripe / Paypal (ou autre moyen de paiement)
+- Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💬 Où me trouver ? Comment me contacter ?
+- Mon profil Malt : [https://www.malt.fr/profile/jacobdelcroix](https://www.malt.fr/profile/jacobdelcroix)
+- Mon Twitter : [@jacobdelcroix](https://twitter.com/JacobDelcroix)
+- Mon e-mail : delcroix.jacob@gmail.com
