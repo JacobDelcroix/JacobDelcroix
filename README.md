@@ -1,4 +1,4 @@
-### Déveveloppeur Freelance | Laravel / Symfony
+### Développeur Freelance | Laravel / Symfony
 
 ![Bannière Jacob Delcroix](./images/banner.jpeg)
 
