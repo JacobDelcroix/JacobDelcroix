@@ -1,6 +1,9 @@
 ### Déveveloppeur Freelance | Laravel / Symfony
 
-Fan de développement depuis mon plus jeune âge, le code est à la fois ma passion et mon métier. Suite à quelques expériences en CDI, je me suis lancé en tant que Freelance temps plein en Juillet 2019. 
+![Bannière Jacob Delcroix](./images/banner.jpeg)
+
+Fan de développement depuis mon plus jeune âge, le code est à la fois ma passion et mon métier. Suite à quelques expériences en CDI, je me suis lancé en tant que Freelance temps plein en Juillet 2019.
+
 
 #### ⚡ Compétences
 - PHP
